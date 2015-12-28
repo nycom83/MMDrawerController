@@ -1,3 +1,6 @@
+#Changes
+The only change is the ability to hide the statusbar
+
 #Mutual Mobile Drawer Controller
 `MMDrawerController` is a side drawer navigation container view controller designed to support the growing number of applications that leverage the side drawer paradigm. This library is designed to exclusively support side drawer navigation in a light-weight, focused approach while exposing the ability to provide custom animations for presenting and dismissing the drawer.
 
